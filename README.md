@@ -135,9 +135,11 @@ Execute the cells in order. The full analysis runs in under 30 seconds on a stan
 ├── datasets/                             # Dataset location (not uploaded — see instructions above)
 ├── __pycache__/                          # Python bytecode cache (auto-generated)
 ├── data.cleaning.py                      # Script for reading and cleaning the raw CSV
-├── project_V1.0.ipynb                    # Jupyter notebook with the full EDA and charts
+├── project_V1.1.ipynb                    # Jupyter notebook with the full EDA and charts
 ├── Presentation_SalesPerformance.pdf     # PDF of the final slide deck
-└── README.md
+├── queries.sql
+├── README.md
+
 ```
 
 > **Note:** the raw dataset (`Sample_-_Superstore.csv`) is intentionally **not uploaded** to this repository. See the "How to Reproduce" section above for download instructions.
